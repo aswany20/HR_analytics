@@ -2,8 +2,6 @@
 
 A Power BI dashboard and follow-up analysis of employee attrition, with a closer look at one termination reason: **"unhappy"**.
 
-![Dashboard](dashboard/dashboard.png)
-
 ## Question
 
 Who leaves the company, and why? Within that, what do employees who left because they were *unhappy* have in common?
